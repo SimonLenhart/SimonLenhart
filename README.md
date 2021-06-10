@@ -7,7 +7,7 @@ Hey, my name is Simon Lenhart and I am a 23-year-old computer science student at
 
 The following projects are currently available publicly on my GitHub profil: 
 
-**Bachelor Project / Touch-less Ticket Vending Machine** 
+**Bachelor Project / Touch-less Ticket Vending Machine**  <br/>
 This project contains the prototype of a contact-less ticket vending machine. The curser moves via gesture controll, so it is necessary to have a Leap Motion controller, to capture the motions of the user. 
 
 **Space Shooter** 
