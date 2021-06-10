@@ -1,4 +1,13 @@
-Hi, I’m @SimonLenhart, a 23-year-old computer science student, who is currently writing his bachelor thesis at the University of Konstanz. 
+# GitHub Profil of Simon Lenhart
+
+Hey, my name is Simon Lenhart and I am a 23-year-old computer science student at the University of Konstanz. Currently I am writing my bachelor thesis about touch-less interaction with a ticket vending machine. 
+
+*** 
+## Public Projects 
+
+The following projects are currently available publicly in my GitHub profil: 
+
+
 
 In this GitHub profile, I mainly store my personal projects, but also some public projects will get uploaded here. 
 
