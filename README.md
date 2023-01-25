@@ -1,6 +1,6 @@
 # GitHub Profil of Simon Lenhart
 
-Hey, my name is Simon Lenhart and I am a 24-year-old full stack developer. I'm currently doing a six-month internship at a digital agency in Konstanz to make the transition from university to the professional working life. 
+Hey, my name is Simon Lenhart and I am a 25-year-old full stack developer. Currently, I'm working as freelancer, where I create web applications according to client specifications. Prior to that I completed a six-month internship at the digital agency "W3 digital brands" in Konstanz, Germany and finished my bachelor in information engineering at the university of Konstanz.
 
 *** 
 ## Public Projects 
