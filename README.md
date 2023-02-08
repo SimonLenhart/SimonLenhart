@@ -9,8 +9,8 @@ Since most of my projects contain sensitive data, they are unfortunately not ava
 The following projects are currently available publicly on my GitHub profil: 
 
 - ### Veterinarian Website
-This web application was created for a veterinarian clinic in Remshalden, Germany. For the creation Wordpress in combination with Elementor was used.<br>
-This website was entirely designed and developed by me. 
+  This web application was created for a veterinarian clinic in Remshalden, Germany. For the creation Wordpress in combination with Elementor was used.<br>
+  This website was entirely designed and developed by me. 
 
 - ### Bachelor Project / Touch-less Ticket Vending Machine
 This project contains the prototype of a contact-less ticket vending machine. The curser moves via gesture controll, so it is necessary to have a Leap Motion controller, to capture the motions of the user. 
