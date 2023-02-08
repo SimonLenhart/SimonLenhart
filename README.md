@@ -21,6 +21,7 @@ The following projects are currently available publicly on my GitHub profil:
 - ### Space Shooter 
   This folder contains a space shooter application for Android. I developed this application in my free time to get familiar with Unity and the programming language C#. Since I stopped programming this app after this familiarisation phase, it is already playable, but does not reflect my current skills. 
 
+*** 
 ## Contact
 
 If you have any questions, suggestion or requests, please feel free to contact me at simon.lenhart@gmx.de or write me on [LinkedIn](https://www.linkedin.com/in/simon-lenhart/)
